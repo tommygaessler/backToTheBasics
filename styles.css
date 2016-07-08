@@ -1,0 +1,22 @@
+body
+{
+  background-color: #CAFFD0;
+}
+
+li
+{
+  font-size: 18px;
+  color: #7E8287;
+}
+
+a
+{
+  display: block;
+  text-decoration: none;
+  color: gray;
+}
+
+a:hover
+{
+  color: black;
+}
